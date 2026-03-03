@@ -1,6 +1,6 @@
 # Skeuomorphic Measuring Tape
 
-based on https://github.com/raylib-extras/raylib-quickstart
+based on https://github.com/raylib-extras/raylib-quickstart<br>
 uses https://github.com/raysan5/raylib/ for the font and as a framework
 
 simple desktop utility for measuring on-screen objects
