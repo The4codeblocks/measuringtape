@@ -1,0 +1,23 @@
+GLFW_ICON ICON "icon.ico"
+
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"    // English US
+    BEGIN
+      VALUE "FileDescription", "Skeuomorphic Measuring Tape"
+      VALUE "FileVersion", "1.0.0.0"
+      VALUE "InternalName", "measuringTape"
+      VALUE "LegalCopyright", "[License: MIT] (c) 2026 The4spaceconstants / The4codeblocks"
+      VALUE "ProductName", "Measuring Tape"
+      VALUE "ProductVersion", "1.0.0.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252    // English US
+  END
+END
